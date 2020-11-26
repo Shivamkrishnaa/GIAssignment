@@ -16,13 +16,15 @@ Here is what you should do to run:
         2. Run ‘docker build -t YOURDOCKERID/client .’
         3. Run ‘docker push YOURDOCKERID/client’
 ```
+```
 
    >  B. Push server auth to docker
         1. Change into the auth directory at your terminal
         2. Run ‘docker build -t YOURDOCKERID/auth .’
         3. Run ‘docker push YOURDOCKERID/auth
-```
 
+```
+```
    >  C. Replace all your docker id
         1. Change into the root’ directory at your terminal
         2. Open skaffold.yaml replace all 'shivamkrishna' with 'YOURDOCKERID'
