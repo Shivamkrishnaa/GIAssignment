@@ -1,7 +1,7 @@
 
 Hi!
 
-Requirement - OS: MAC
+#Requirement - OS: MAC
 
 Here is what you should do to run:
 
